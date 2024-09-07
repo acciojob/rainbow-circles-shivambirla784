@@ -16,6 +16,7 @@
 #middle {
     width: 200px;
     height: 200px;
+	margin:25px;
     background-color: #008000;
 	border: 25px solid #ffff00;
     border-radius: 50%;
@@ -31,6 +32,7 @@
 #inner {
     width: 100px;
     height: 100px;
+	margin:25px;
     background-color: #800080;
 	border: 25px solid #0000ff;
     border-radius: 50%;
